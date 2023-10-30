@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026599803209",
+    "project_id": "hevlon-cosmetics",
+    "storage_bucket": "hevlon-cosmetics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026599803209:android:61813990aecbcc71c3e298",
+        "android_client_info": {
+          "package_name": "com.hevloncosmeticsfsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9Tg7v-K2fUHaplOVcGrjPj-V8qE8CZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
